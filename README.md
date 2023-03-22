@@ -37,5 +37,5 @@ Developing a robust approach for analyzing cryptocurrency market data is essenti
 
 ### **Time Series Forecasting**
 
-[SMA-ES-ARIMA-SARIMA Model]
+[SMA-ES-ARIMA-SARIMA Model](https://github.com/shahgem/CIND-820/blob/main/Code-SMA-ES-ARIMA-SARIMA.ipynb)
 
