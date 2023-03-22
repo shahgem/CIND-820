@@ -11,3 +11,6 @@ In light of this, during the analysis phase of this project, it is prudent to co
 ### **Exploratory Data Analysis**
 
 (https://github.com/shahgem/CIND-820/blob/main/Code-EDA.ipynb)
+
+### **Time Series Forecasting**
+
