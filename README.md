@@ -10,4 +10,4 @@ The initial dataset brings to the fore the non-uniformity of the trading dates o
 In light of this, during the analysis phase of this project, it is prudent to compare all currencies from 2017 onwards, so as to minimize prediction bias and incorporate a more uniform and recent historical data. 
 ### **Exploratory Data Analysis**
 
-[code for EDA](Code-EDA.md)
+(https://github.com/shahgem/CIND-820/blob/branch/Code-EDA.md)
