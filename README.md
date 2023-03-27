@@ -28,17 +28,16 @@ BTC   | 46.383877    | -871.687094 | -1130.908270
 
 Based on the technical analysis results, here are the interpretations for each currency:
 
-• LTC: slightly oversold, with a potential bullish crossover.
+Currency  | Result interpreation
+--- | ---
+LTC:      |     slightly oversold, with a potential bullish crossover.
+ADA:   | neutral, currently in a range-bound market.
+BNB:                |     bullish, with a potential bullish crossover.
+DOGE:   | oversold, currently in a range-bound market.
+ETH:                       |     neutral, with a strong bearish trend.
+BTC:    | slightly oversold, with a strong bearish trend.
 
-• ADA: neutral, currently in a range-bound market.
 
-• BNB: bullish, with a potential bullish crossover.
-
-• DOGE: oversold, currently in a range-bound market.
-
-• ETH: neutral, with a strong bearish trend.
-
-• BTC: slightly oversold, with a strong bearish trend.
 
 ### **<ins>Problem Statement</ins>**:
 
