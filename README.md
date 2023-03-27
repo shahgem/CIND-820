@@ -17,27 +17,14 @@ Technical analysis is a popular and widely-used methodology for predicting the f
 
 ![](Images/TA.png)
 
-Symbol | RSI | MACD | MACD Signal
---- | --- | --- | ---
-LTC | 43.325110    | -9.037788 | -12.098173
-ADA | 50.234631    | -0.024998 | -0.047715
-BNB | 50.275473    | -14.875495 | -21.176928
-DOGE  | 40.619870    | -0.021343 | -0.023876
-ETH   | 52.635585    | -51.093439 | -105.488122
-BTC   | 46.383877    | -871.687094 | -1130.908270
-
-Based on the technical analysis results, here are the interpretations for each currency:
-
-Currency  | Result interpreation
---- | ---
-LTC:      |     slightly oversold, with a potential bullish crossover.
-ADA:   | neutral, currently in a range-bound market.
-BNB:                |     bullish, with a potential bullish crossover.
-DOGE:   | oversold, currently in a range-bound market.
-ETH:                       |     neutral, with a strong bearish trend.
-BTC:    | slightly oversold, with a strong bearish trend.
-
-
+Symbol | RSI | MACD | MACD Signal | Result interpreation
+--- | --- | --- | --- | ---
+LTC | 43.325110    | -9.037788 | -12.098173 |     slightly oversold, with a potential bullish crossover.
+ADA | 50.234631    | -0.024998 | -0.047715  | neutral, currently in a range-bound market.
+BNB | 50.275473    | -14.875495 | -21.176928  |     bullish, with a potential bullish crossover.
+DOGE  | 40.619870    | -0.021343 | -0.023876  | oversold, currently in a range-bound market.
+ETH   | 52.635585    | -51.093439 | -105.488122  |     neutral, with a strong bearish trend.
+BTC   | 46.383877    | -871.687094 | -1130.908270 | slightly oversold, with a strong bearish trend.
 
 ### **<ins>Problem Statement</ins>**:
 
