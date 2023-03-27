@@ -11,6 +11,16 @@ In light of this, during the analysis phase of this project, it is prudent to co
 
 ![](Images/overview.png) ![](Images/overview1.png) ![](Images/Skewness.png)
 
+### **Technical Analysis**:
+
+Symbol | RSI | MACD | MACD Signal
+--- | --- | --- | ---
+LTC | 43.325110    | -9.037788 | -12.098173
+ADA | 50.234631    | -0.024998 | -0.047715
+BNB | 50.275473    | -14.875495 | -21.176928
+DOGE  | 40.619870    | -0.021343 | -0.023876
+ETH   | 52.635585    | -51.093439 | -105.488122
+BTC   | 46.383877    | -871.687094 | -1130.908270
 
 ### **Problem Statement**:
 
