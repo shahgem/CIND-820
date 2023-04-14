@@ -26,6 +26,14 @@ DOGE  | 40.619870    | -0.021343 | -0.023876  | oversold, currently in a range-b
 ETH   | 52.635585    | -51.093439 | -105.488122  |     neutral, with a strong bearish trend.
 BTC   | 46.383877    | -871.687094 | -1130.908270 | slightly oversold, with a strong bearish trend.
 
+Indicator | Description | Interpretation 
+|:------------- | :------------- | :------------- |
+Relative Strength Index (RSI) | (RSI) is a measure that assesses the strength of a security's price action, indicating the level of momentum it has. This metric operates as an oscillator and produces RSI readings that fall within the range of 0 to 100. The RSI value enables traders to identify whether the security is overbought or oversold    | RSI > 70: Overbought condition <br> RSI < 30: Oversold condition <br> RSI > 50: Bullish momentum <br> RSI < 50: Bearish momentum slightly oversold, with a potential bullish crossover.
+Moving Average Convergence Divergence (MACD) | The statement describes the correlation between two moving averages that represent the price of an asset. | Positive MACD: Bullish momentum   Negative MACD: Bearish momentum
+MACD Signal | Plotted alongside the MACD to generate buy and sell signals | Cross above MACD signal line: Bullish signal   Cross below MACD signal line: Bearish signal  <br>Distance between MACD and signal line: Trend strength |
+
+
+
 ### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **<ins>Problem Statement</ins>**:
 
 What are the most effective predictive and time series analysis techniques for forecasting short-term closing prices of cryptocurrencies? Which features are influential predictors for classifying the short-term closing prices of selected cryptocurrencies?
