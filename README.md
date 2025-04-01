@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">
-  🚀 <span style="color:#4CAF50; font-weight:bold;">AI-Powered Cryptocurrency Price Prediction</span> 📊
+  🚀 <span style="color:#4CAF50; font-weight:bold;">Predicting Cryptocurrency Prices Using Machine Learning Algorithms</span> 📊
 </h1>
 
 <h3 align="center" style="color:#FFA500;">
