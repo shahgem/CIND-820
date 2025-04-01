@@ -18,7 +18,10 @@
 
 With the advancement and modernization of technology, various industries are rapidly evolving to adapt to the latest global trends. One such change that has been taking place is the increasing prevalence of cryptocurrency as a medium of exchange and investment. This shift towards digital currencies represents a significant departure from traditional fiat currencies and stock exchange practices and It’s the time to understand what digital money really means for everyone’s future.
 
-### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **<ins>Overview of the Data</ins>**:
+<h3 align="left">
+  🔍 <span style="color:#1589F0;"><u>Overview of the Data</u></span>
+</h3>
+  
 
 The dataset utilized in this project was sourced from Kaggle Inc, and is publicly accessible under the title "Cryptocurrency Market Data Historical Cryptocurrency Price for All tokens!". 
 During this course of study, I will emphasis on Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), Cardano (ADA), and Binance Coin (BNB). Although Kaggle provides separate CSV files for each cryptocurrency, the author of this project has amalgamated all the individual files into a single CSV file named "crypto_market.csv". This amalgamation was possible due to the identical columns of each file, i.e., Serial Number, Name, Symbol, Date, High, Low, Open, Close, Volume, Market Capitalization.
@@ -27,7 +30,8 @@ In light of this, during the analysis phase of this project, it is prudent to co
 
 ![](Images/overview.png) ![](Images/overview1.png) ![](Images/Skewness.png)
 
-### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **<ins>Technical Analysis</ins>**:
+### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **<ins>Technical Analysis</ins>**: 
+
 
 Technical analysis is a popular and widely-used methodology for predicting the future price movements of an asset. Technical analysts develop their analysis using various indicators such as moving averages, RSI, MACD, and Fibonacci retracements. Combining technical analysis with other types of analysis and practicing risk management when trading is essential for successful trading.
 
